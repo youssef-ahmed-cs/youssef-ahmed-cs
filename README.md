@@ -8,7 +8,7 @@ I'm a passionate **Computer Science student** and a dedicated **Full-Stack Devel
 
 - 🎓 I'm currently studying Computer Science at Banha university
 - 🔭 I'm working on improving my skills in **Laravel**, **Livewire**, **Vue.js**, and **REST APIs**
-- 🌱 Currently learning **DevOps tools**, **Docker**, and **system design**
+- 🌱 Currently learning **Laravel**, **Docker**, and **system design**
 - 👯 I’m open to collaborating on **open-source projects** and freelance opportunities
 - 🧠 I enjoy solving real-world problems using code and exploring **AI & automation**
 - 💬 Ask me about Laravel, PHP, MySQL, or software architecture
