@@ -20,8 +20,8 @@ I'm a passionate **Computer Science student** and a dedicated **Full-Stack Devel
 ### 🛠️ Tech Stack
 
 ```bash
-💻 Languages:       PHP, JavaScript, Python, C++ , Java , C#
+💻 Languages:       PHP, JavaScript, Python, C++ , Java , C# , HTML , CSS , C , json
 🧰 Frameworks:      Laravel , Vue.js, TailwindCSS , API
 🗄️ Databases:       MySQL, SQLite, Oracle , PostgerQSL , MS SQL
-🛠️ Tools & Others:  Git, GitHub, VS Code, Postman, Docker (basics), Composer
+🛠️ Tools & Others:  Git, GitHub, VS Code, Postman, Docker (basics), Composer , PhpStorm , DataGrip
 
