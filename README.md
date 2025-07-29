@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Youssef Ahmed</h1>
-<h3 align="center">💻 A Passionate Backend Laravel Developer from Egypt 🇪🇬</h3>
+<!-- إضافة صورة متحركة بجانب العنوان الرئيسي - Animated GIF next to main title -->
+<h1 align="center">Hi 👋, I'm Youssef Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h3 align="center">💻 A Passionate Backend Laravel Developer from Egypt 🇪🇬 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 ---
 
 ### 👨‍💻 About Me
+<!-- إضافة صورة متحركة في قسم About Me - Animated GIF in About Me section -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🌱 I’m currently learning & working with **Laravel**
 - 💬 Ask me about **Web Development, Python, Software Testing, CNN**
@@ -13,6 +16,8 @@
 ---
 
 ### 🔗 Connect With Me
+<!-- إضافة صورة متحركة بجانب وسائل التواصل الاجتماعي - Animated GIF next to social media -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="left">
   <a href="https://twitter.com/yousef_ahmed_it" target="_blank">
@@ -32,6 +37,10 @@
 ---
 
 ### 🛠️ Tech Stack
+<!-- إضافة صورة متحركة في قسم التقنيات - Animated GIF in Tech Stack section -->
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
 
 #### 🔹 Backend & Frameworks
 <p align="left">
@@ -129,5 +138,17 @@
   <a href="https://www.adobe.com/products/illustrator.html">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator" />
   </a>
+</p>
+
+---
+
+<!-- إضافة نص متحرك في النهاية - Animated typing text at the end -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Laravel+Developer;Always+learning+new+things;Love+to+code+and+develop" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <br><em><b>Thanks for visiting!</b> ✨</em>
 </p>
 
