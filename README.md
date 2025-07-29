@@ -117,9 +117,10 @@
   <a href="https://www.github.com/">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub" />
   </a>
-  <a href="https://www.jetbrains.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/JetBrains_Logo_2016.svg/512px-JetBrains_Logo_2016.svg.png" width="40" height="40" alt="JetBrains" />
-  </a>
+<a href="https://www.jetbrains.com/">
+  <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" width="40" height="40" alt="JetBrains" />
+</a>
+
   <a href="https://www.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker" />
   </a>
