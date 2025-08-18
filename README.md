@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Youssef+Ahmed;Backend+Laravel+Developer;Passionate+about+Clean+Code;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Youssef+Ahmed+%7C+Backend+Developer;Laravel+%7C+PHP+%7C+API+Development;Building+Scalable+Web+Solutions;Clean+Code+%7C+Best+Practices" alt="Typing SVG" />
 </div>
 
-<h1 align="center">💻 Backend Laravel Developer from Egypt 🇪🇬</h1>
+<h1 align="center">Senior Backend Laravel Developer 🚀</h1>
+<h3 align="center">Crafting Robust Web Solutions | Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=youssef-ahmed-cs&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/youssef-ahmed-cs?label=Followers&style=for-the-badge&color=2F81F7" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-2F81F7?style=for-the-badge" alt="Focus" />
 </p>
 
 ---
