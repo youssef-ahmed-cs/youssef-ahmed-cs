@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Youssef+Ahmed+%7C+Backend+Developer;Laravel+%7C+PHP+%7C+API+Development;Building+Scalable+Web+Solutions;Clean+Code+%7C+Best+Practices" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Senior Backend Laravel Developer 🚀</h1>
+<h1 align="center">Junior Backend Laravel Developer </h1>
 <h3 align="center">Crafting Robust Web Solutions | Egypt 🇪🇬</h3>
 
 <p align="center">
@@ -23,7 +23,6 @@
 - 🤝 I'm looking for help with **Machine Learning Integration**
 - 💬 Ask me about **Laravel, PHP, Web Development, API Design**
 - 📫 Reach me at: **[youssef.ahmed.fci@gmail.com](mailto:youssef.ahmed.fci@gmail.com)**
-- 📄 Know about my experiences: **[My Resume](#)** <!-- Add your resume link -->
 - ⚡ Fun fact: **I debug code faster than I debug my life! 😄**
 
 ---
@@ -126,9 +125,6 @@
   <a href="https://www.w3schools.com/cs/" title="C#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
   </a>
-  <a href="https://www.scala-lang.org" title="Scala">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="45" height="45" alt="Scala" />
-  </a>
 </p>
 </details>
 
@@ -170,9 +166,6 @@
   <a href="https://www.nginx.com" title="Nginx">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx" />
   </a>
-  <a href="https://aws.amazon.com" title="AWS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
-  </a>
   <a href="https://www.linux.org/" title="Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
   </a>
@@ -192,27 +185,11 @@
   <a href="https://postman.com" title="Postman">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" />
   </a>
-  <a href="https://unity.com/" title="Unity">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="45" height="45" alt="Unity" />
-  </a>
   <a href="https://code.visualstudio.com/" title="VS Code">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45" height="45" alt="VS Code" />
   </a>
 </p>
 </details>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ---
 
