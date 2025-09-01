@@ -41,8 +41,8 @@
 ### 🔗 `Connect With Me`
 
 <div align="center">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <!-- LinkedIn https://www.linkedin.com/in/youssef-ahmed-cs/ -->
+  <a href="https://www.linkedin.com/in/youssef-ahmed-cs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />
   </a>
 
