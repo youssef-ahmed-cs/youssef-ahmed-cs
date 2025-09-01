@@ -24,7 +24,7 @@
 - 👯 Open to collaborate on **Open Source Laravel Projects**
 - 🤝 Seeking help with **Machine Learning Integration**
 - 💬 Ask me about **Laravel, PHP, Web Development, API Design**
-- 📫 Contact: **[youssef.ahmed.fci@gmail.com](mailto:youssef.ahmed.fci@gmail.com)**
+- 📫 Contact: <a href="mailto:youssef.ahmed.fci@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" alt="Gmail" style="vertical-align:middle;" /> <span style="vertical-align:middle;">youssef.ahmed.fci@gmail.com</span></a>
 - ⚡ Fun fact: **I debug code faster than I debug my life! 😄**
 
 ---
@@ -41,25 +41,28 @@
 ### 🔗 `Connect With Me`
 
 <div align="center">
-  <a href="https://twitter.com/yousef_ahmed_it" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/youssef-ahmed-b5217724b" target="_blank">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/eng.youssef.ahmed.fci" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" alt="Instagram" />
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201277672245" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="32" alt="WhatsApp" />
   </a>
-  <a href="https://www.youtube.com/c/youssef_ahmed_bfcai_cs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="32" alt="YouTube" />
-  </a>
+
+  <!-- Gmail -->
   <a href="mailto:youssef.ahmed.fci@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" alt="Gmail" />
   </a>
-  <a href="https://github.com/youssef-ahmed-cs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />
-  </a>
+
+  <!-- Facebook -->
+<a href="https://www.facebook.com/USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" alt="Facebook" />
+</a>
+
 </div>
+
 <br>
 <em><b>Love connecting with different people!</b> <br>
 Say <b>hi</b>, I'll be happy to meet you! 😊</em>
@@ -132,9 +135,10 @@ Say <b>hi</b>, I'll be happy to meet you! 😊</em>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="40" title="Putty" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40" title="PhpStorm" />
 </p>
 </details>
+
 
 <details open>
 <summary><b>🔹 Design & Other Tools</b></summary>
