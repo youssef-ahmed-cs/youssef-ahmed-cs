@@ -1,9 +1,11 @@
+<!-- Use Ubuntu Mono font for headings and important sections (Note: Markdown does not support embedded CSS on GitHub, so use font visually in design tools or highlight with code blocks for emphasis) -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Youssef+Ahmed+%7C+Backend+Developer;Laravel+%7C+PHP+%7C+API+Development;Building+Scalable+Web+Solutions;Clean+Code+%7C+Best+Practices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Youssef+Ahmed+%7C+Backend+Developer;Laravel+%7C+PHP+%7C+API+Development;Building+Scalable+Web+Solutions;Clean+Code+%7C+Best+Practices" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Junior Backend Laravel Developer </h1>
-<h3 align="center">Crafting Robust Web Solutions | Egypt 🇪🇬</h3>
+<h1 align="center">🧑‍💻 <code>Junior Backend Laravel Developer</code></h1>
+<h3 align="center"><code>Crafting Robust Web Solutions from Egypt 🇪🇬</code></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=youssef-ahmed-cs&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile views" />
@@ -13,203 +15,160 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 👨‍💻 About Me
+### 👨‍💻 `About Me`
 
-- 🔭 I'm currently working on **Appointments Booking System**
-- 🌱 I'm currently learning **Advanced Laravel & Vue.js**
-- 👯 I'm looking to collaborate on **Open Source Laravel Projects**
-- 🤝 I'm looking for help with **Machine Learning Integration**
+- 🔭 Currently building **Appointments Booking System**
+- 🌱 Learning **Advanced Laravel & Vue.js**
+- 👯 Open to collaborate on **Open Source Laravel Projects**
+- 🤝 Seeking help with **Machine Learning Integration**
 - 💬 Ask me about **Laravel, PHP, Web Development, API Design**
-- 📫 Reach me at: **[youssef.ahmed.fci@gmail.com](mailto:youssef.ahmed.fci@gmail.com)**
+- 📫 Contact: **[youssef.ahmed.fci@gmail.com](mailto:youssef.ahmed.fci@gmail.com)**
 - ⚡ Fun fact: **I debug code faster than I debug my life! 😄**
 
 ---
 
-### 🌟 What I'm Working On
+### 🌟 `What I'm Working On`
 
-- 🏥 **Appointments Booking System** - A comprehensive Laravel application
-- 📚 **Laravel Learning Resources** - Creating tutorials and guides
-- 🔧 **Personal Portfolio Website** - Showcasing my projects
-- 🚀 **API Development** - RESTful services with Laravel Sanctum
+- 🏥 **Appointments Booking System** – Comprehensive Laravel app
+- 📚 **Laravel Learning Resources** – Tutorials & guides
+- 🔧 **Personal Portfolio Website** – My projects showcase
+- 🚀 **API Development** – RESTful services with Laravel Sanctum
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 `Connect With Me`
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-<p align="center">
+<div align="center">
   <a href="https://twitter.com/yousef_ahmed_it" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/youssef-ahmed-b5217724b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/eng.youssef.ahmed.fci" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/c/youssef_ahmed_bfcai_cs" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="32" alt="YouTube" />
   </a>
   <a href="mailto:youssef.ahmed.fci@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" alt="Gmail" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/youssef-ahmed-cs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />
   </a>
-</p>
+</div>
+<br>
+<em><b>Love connecting with different people!</b> <br>
+Say <b>hi</b>, I'll be happy to meet you! 😊</em>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ `Tech Stack & Tools`
 
-<details>
+<details open>
 <summary><b>🔹 Backend & Frameworks</b></summary>
 <br>
-<p align="left">
-  <a href="https://laravel.com" title="Laravel">
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="45" height="45" alt="Laravel" />
-  </a>
-  <a href="https://www.php.net/" title="PHP">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" title=".NET">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45" alt=".NET" />
-  </a>
-  <a href="https://nodejs.org" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js" />
-  </a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" title="Composer" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" title="Symfony" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" title="Node.js" />
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🔹 Frontend & Styling</b></summary>
 <br>
-<p align="left">
-  <a href="https://vuejs.org/" title="Vue.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45" height="45" alt="Vue.js" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-  </a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS" />
-  </a>
-  <a href="https://getbootstrap.com" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap" />
-  </a>
-  <a href="https://www.w3.org/html/" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML" />
-  </a>
-  <a href="https://www.w3schools.com/css/" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS" />
-  </a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="Sass" />
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🔹 Programming Languages</b></summary>
 <br>
-<p align="left">
-  <a href="https://www.python.org" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  </a>
-  <a href="https://www.java.com" title="Java">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" title="C#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
-  </a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🔹 Databases</b></summary>
 <br>
-<p align="left">
-  <a href="https://www.mysql.com/" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server" />
-  </a>
-  <a href="https://www.sqlite.org/" title="SQLite">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45" alt="SQLite" />
-  </a>
-  <a href="https://redis.io" title="Redis">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis" />
-  </a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🔹 DevOps & Tools</b></summary>
 <br>
-<p align="left">
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
-  </a>
-  <a href="https://github.com/" title="GitHub">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" alt="GitHub" />
-  </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker" />
-  </a>
-  <a href="https://www.nginx.com" title="Nginx">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx" />
-  </a>
-  <a href="https://www.linux.org/" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
-  </a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="40" title="Putty" />
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🔹 Design & Other Tools</b></summary>
 <br>
-<p align="left">
-  <a href="https://www.figma.com/" title="Figma">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma" />
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" height="45" alt="Illustrator" />
-  </a>
-  <a href="https://postman.com" title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" />
-  </a>
-  <a href="https://code.visualstudio.com/" title="VS Code">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45" height="45" alt="VS Code" />
-  </a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" title="Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" title="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" title="Slack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" title="Notion" />
 </p>
 </details>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 `GitHub Trophies`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ahmed-cs&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 `Contribution Graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ahmed-cs&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 ---
 
-### 💡 Random Dev Quote
+### 💡 `Random Dev Quote`
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
@@ -217,7 +176,7 @@
 
 ---
 
-### 🎯 Current Goals
+### 🎯 `Current Goals`
 
 - 🔥 Master **Laravel Octane** for high-performance applications
 - 📱 Learn **Laravel Livewire** for dynamic interfaces
@@ -229,14 +188,11 @@
 ---
 
 <div align="center">
-  <h3>💼 Open for Work | 🤝 Let's Collaborate | 🌱 Always Learning</h3>
-  
+  <h3><code>💼 Open for Work | 🤝 Let's Collaborate | 🌱 Always Learning</code></h3>
   <p>
     <em>"Code is like humor. When you have to explain it, it's bad."</em> - Cory House
   </p>
-  
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer" />
-  
   <br><br>
   <b>⭐ Thanks for visiting! Feel free to star some repositories if you find them interesting! ⭐</b>
 </div>
