@@ -67,21 +67,43 @@
 <div align="center">
   
   <a href="https://www.linkedin.com/in/youssef-ahmed-cs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" width="140" style="border-radius: 50px;" alt="LinkedIn" />
   </a>
   
   <a href="https://wa.me/201277672245" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="130" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=25D366" width="140" style="border-radius: 50px;" alt="WhatsApp" />
   </a>
   
   <a href="mailto:youssef.ahmed.fci@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" width="140" style="border-radius: 50px;" alt="Gmail" />
   </a>
   
   <a href="https://www.facebook.com/youssef.ahmed.cs" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="130" alt="Facebook" />
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2" width="140" style="border-radius: 50px;" alt="Facebook" />
   </a>
 
+</div>
+
+<br>
+
+<!-- Circular Social Icons Alternative -->
+<div align="center">
+  <h4>💫 Alternative Circular Icons</h4>
+  <a href="https://www.linkedin.com/in/youssef-ahmed-cs" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="border-radius: 50%; background: #0077B5; padding: 8px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201277672245" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" alt="WhatsApp" height="40" width="40" style="border-radius: 50%; background: #25D366; padding: 8px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:youssef.ahmed.fci@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" height="40" width="40" style="border-radius: 50%; background: #D14836; padding: 8px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/youssef.ahmed.cs" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" style="border-radius: 50%; background: #1877F2; padding: 8px;" />
+  </a>
 </div>
 
 <br>
@@ -98,6 +120,23 @@
 <summary><b>🔹 Backend & Frameworks</b></summary>
 <br>
 
+<div align="center">
+
+<!-- Circular Tech Icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50" style="border-radius: 50%; background: #FF2D20; padding: 10px;" title="Laravel - Expert" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" style="border-radius: 50%; background: #777BB4; padding: 10px;" title="PHP - Expert" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="50" height="50" style="border-radius: 50%; background: #000000; padding: 10px;" title="Symfony - Intermediate" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="50" height="50" style="border-radius: 50%; background: #512BD4; padding: 10px;" title=".NET - Intermediate" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="border-radius: 50%; background: #339933; padding: 10px;" title="Node.js - Learning" />
+
+</div>
+
+<br>
+
 | Technology | Proficiency | Experience | Projects |
 |------------|-------------|------------|----------|
 | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ⭐⭐⭐⭐⭐ | 3+ years | 15+ |
@@ -110,6 +149,25 @@
 
 <details open>
 <summary><b>🔹 Frontend & Styling</b></summary>
+<br>
+
+<div align="center">
+
+<!-- Circular Frontend Icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" style="border-radius: 50%; background: #4FC08D; padding: 10px;" title="Vue.js - Advanced" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="border-radius: 50%; background: #F7DF1E; padding: 10px;" title="JavaScript - Advanced" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" style="border-radius: 50%; background: #7952B3; padding: 10px;" title="Bootstrap - Expert" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="border-radius: 50%; background: #E34F26; padding: 10px;" title="HTML5 - Expert" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="border-radius: 50%; background: #1572B6; padding: 10px;" title="CSS3 - Advanced" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" style="border-radius: 50%; background: #CC6699; padding: 10px;" title="Sass - Intermediate" />
+
+</div>
+
 <br>
 
 | Technology | Proficiency | Experience |
@@ -125,6 +183,25 @@
 
 <details open>
 <summary><b>🔹 Programming Languages</b></summary>
+<br>
+
+<div align="center">
+
+<!-- Circular Programming Language Icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" style="border-radius: 50%; background: #777BB4; padding: 12px;" title="PHP - Expert" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="border-radius: 50%; background: #F7DF1E; padding: 12px;" title="JavaScript - Advanced" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="border-radius: 50%; background: #3776AB; padding: 12px;" title="Python - Intermediate" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="border-radius: 50%; background: #ED8B00; padding: 12px;" title="Java - Learning" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" style="border-radius: 50%; background: #00599C; padding: 12px;" title="C++ - Basic" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" style="border-radius: 50%; background: #239120; padding: 12px;" title="C# - Basic" />
+
+</div>
+
 <br>
 
 ```
@@ -144,6 +221,23 @@ Bash         ████████████         60%  (Intermediate)
 <summary><b>🔹 Databases & Storage</b></summary>
 <br>
 
+<div align="center">
+
+<!-- Circular Database Icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="border-radius: 50%; background: #4479A1; padding: 12px;" title="MySQL - Expert" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" style="border-radius: 50%; background: #336791; padding: 12px;" title="PostgreSQL - Advanced" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" style="border-radius: 50%; background: #DC382D; padding: 12px;" title="Redis - Advanced" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" style="border-radius: 50%; background: #47A248; padding: 12px;" title="MongoDB - Learning" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" style="border-radius: 50%; background: #003B57; padding: 12px;" title="SQLite - Expert" />
+
+</div>
+
+<br>
+
 | Database | Proficiency | Experience | Projects |
 |----------|-------------|------------|----------|
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ⭐⭐⭐⭐⭐ | 3+ years | 20+ |
@@ -151,7 +245,6 @@ Bash         ████████████         60%  (Intermediate)
 | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ⭐⭐⭐⭐⭐ | 3+ years | 15+ |
 | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ⭐⭐⭐⭐ | 1+ year | 5+ |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ⭐⭐⭐ | Learning | 2+ |
-| ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ⭐⭐⭐ | 1+ year | 3+ |
 
 </details>
 
@@ -159,32 +252,22 @@ Bash         ████████████         60%  (Intermediate)
 <summary><b>🔹 DevOps & Tools</b></summary>
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" title="Nginx" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" title="Apache" />
-  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" title="PhpStorm" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="VS Code" />
-</p>
+<div align="center">
 
-</details>
+<!-- Circular DevOps Icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="border-radius: 50%; background: #F05032; padding: 10px;" title="Git" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="border-radius: 50%; background: #181717; padding: 10px;" title="GitHub" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="border-radius: 50%; background: #2496ED; padding: 10px;" title="Docker" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" style="border-radius: 50%; background: #009639; padding: 10px;" title="Nginx" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="border-radius: 50%; background: #FCC624; padding: 10px;" title="Linux" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="border-radius: 50%; background: #007ACC; padding: 10px;" title="VS Code" />
 
-<details open>
-<summary><b>🔹 Design & Other Tools</b></summary>
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" title="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" title="Photoshop" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="Slack" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title="Notion" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" title="Composer" />
-</p>
+</div>
 
 </details>
 
@@ -196,11 +279,11 @@ Bash         ████████████         60%  (Intermediate)
 
 | Certificate | Provider | Status | Year | Progress |
 |-------------|----------|--------|------|----------|
-| 🎓 **Laravel Certified Developer** | Laravel | 🎯 Planning | 2024 | ⏳ Preparing |
-| ☁️ **AWS Solutions Architect** | Amazon | 📚 In Progress | 2024 | 🔄 40% Complete |
-| 🐘 **PHP Developer Certification** | Zend | ✅ Completed | 2023 | ✨ Achieved |
-| 🗄️ **MySQL Database Administrator** | Oracle | ✅ Completed | 2023 | ✨ Achieved |
-| 🎯 **API Development Specialist** | Self-Study | ✅ Completed | 2023 | ✨ Achieved |
+| 🎓 **Laravel Certified Developer** | Laravel | 🎯 Planning | 2025 | ⏳ Preparing |
+| ☁️ **AWS Solutions Architect** | Amazon | 📚 In Progress | 2025 | 🔄 40% Complete |
+| 🐘 **PHP Developer Certification** | Zend | ✅ Completed | 2024 | ✨ Achieved |
+| 🗄️ **MySQL Database Administrator** | Oracle | ✅ Completed | 2024 | ✨ Achieved |
+| 🎯 **API Development Specialist** | Self-Study | ✅ Completed | 2024 | ✨ Achieved |
 
 </div>
 
