@@ -138,10 +138,9 @@ Say <b>hi</b>, I'll be happy to meet you! 😊</em>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40" title="PhpStorm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" title="WebStorm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="40" title="DataGrip" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" width="40" title="Sublime Text" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/warp.svg" width="40" title="Warp Terminal" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableplus.svg" width="40" title="TablePlus" />
+  <img src="https://www.svgrepo.com/show/377078/table-plus.svg" width="40" title="TablePlus" />
+
 
 </p>
 </details>
@@ -151,6 +150,7 @@ Say <b>hi</b>, I'll be happy to meet you! 😊</em>
 <summary><b>🔹 Design & Other Tools</b></summary>
 <br>
 <p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/warp.svg" width="40" title="Warp Terminal" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" title="Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" title="Photoshop" />
@@ -158,6 +158,8 @@ Say <b>hi</b>, I'll be happy to meet you! 😊</em>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" title="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" title="Notion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS" />
+
 </p>
 </details>
 
