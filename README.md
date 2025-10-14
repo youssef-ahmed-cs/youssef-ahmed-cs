@@ -144,7 +144,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" title="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
-  <img src="https://asset.brandfetch.io/id6bGw9L53/idSx_6rcOL.png" width="40" title="TablePlus" />
+  <img src="id6bGw9L53_logos.png" width="40" title="TablePlus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" title="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" title="Notion" />
 
