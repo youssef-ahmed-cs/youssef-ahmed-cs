@@ -1,90 +1,202 @@
-# Youssef Ahmed
-## Backend Laravel Developer
+<!-- Use Ubuntu Mono font for headings and important sections (Note: Markdown does not support embedded CSS on GitHub, so use font visually in design tools or highlight with code blocks for emphasis) -->
 
 <div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=youssef-ahmed-cs&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/youssef-ahmed-cs?label=Followers&style=flat-square&color=0969da" alt="GitHub followers" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Youssef+Ahmed+%7C+Backend+Developer;Laravel+%7C+PHP+%7C+API+Development;Building+Scalable+Web+Solutions;Clean+Code+%7C+Best+Practices" alt="Typing SVG" />
 </div>
 
-## About Me
+<h1 align="center">🧑‍💻 <code>Junior Backend Laravel Developer</code></h1>
+<h3 align="center"><code>Crafting Robust Web Solutions from Egypt 🇪🇬</code></h3>
 
-I'm a Backend Developer specializing in Laravel and PHP development, based in Egypt. I focus on building robust, scalable web applications with clean architecture and modern development practices. My experience spans full-stack development with a strong emphasis on backend systems, API development, and database design.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youssef-ahmed-cs&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/youssef-ahmed-cs?label=Followers&style=for-the-badge&color=2F81F7" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-2F81F7?style=for-the-badge" alt="Focus" />
+</p>
 
-- 🔭 Currently working on: **Laravel E-Learning Platform** and **Blog Applications**
-- 🌱 Learning: **Advanced Laravel Patterns & Vue.js Integration**
-- 👯 Open to collaborate on: **Laravel Open Source Projects**
-- 💬 Ask me about: **Laravel, PHP, API Development, Database Design**
-- 📫 Contact: [youssef.ahmed.fci@gmail.com](mailto:youssef.ahmed.fci@gmail.com)
+---
 
-## Featured Projects
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🎓 [Laravel E-Learning Platform](https://github.com/youssef-ahmed-cs/Laravel-E-Learing-Platform)
-Comprehensive e-learning platform built with Laravel featuring course management, student enrollment, and progress tracking.
+### 👨‍💻 `About Me`
 
-### 📝 [Blog Application - Laravel](https://github.com/youssef-ahmed-cs/Blogs-app-using-laravel)
-Full-featured blog application with user authentication, post management, and commenting system.
+- 🔭 Currently building **Appointments Booking System**
+- 🌱 Learning **Advanced Laravel & Vue.js**
+- 👯 Open to collaborate on **Open Source Laravel Projects**
+- 🤝 Seeking help with **Machine Learning Integration**
+- 💬 Ask me about **Laravel, PHP, Web Development, API Design**
+- 📫 Contact: <a href="mailto:youssef.ahmed.fci@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" alt="Gmail" style="vertical-align:middle;" /> <span style="vertical-align:middle;">youssef.ahmed.fci@gmail.com</span></a>
+- ⚡ Fun fact: **I debug code faster than I debug my life! 😄**
 
-### 📖 [Blogify - Advanced Blog Platform](https://github.com/youssef-ahmed-cs/Blogfiy-app-using-laravel)
-Advanced blogging platform with enhanced features for content creators and readers.
+---
 
-### 🔧 [Git Branches Tutorial](https://github.com/youssef-ahmed-cs/Git-Branches)
-Educational repository demonstrating Git branching strategies and best practices.
+### 🌟 `What I'm Working On`
 
-## Tech Stack
+- 🏥 **Appointments Booking System** – Comprehensive Laravel app
+- 📚 **Laravel Learning Resources** – Tutorials & guides
+- 🔧 **Personal Portfolio Website** – My projects showcase
+- 🚀 **API Development** – RESTful services with Laravel Sanctum
 
-**Backend & Frameworks**
-- PHP, Laravel, Symfony
-- RESTful APIs, Laravel Sanctum
-- MVC Architecture, Design Patterns
+---
 
-**Frontend & Styling**
-- Vue.js, JavaScript, TypeScript
-- HTML5, CSS3, Bootstrap, Tailwind CSS
-
-**Databases**
-- MySQL, PostgreSQL, SQLite
-- Database Design, Migrations, Eloquent ORM
-
-**DevOps & Tools**
-- Git, GitHub, Composer
-- Docker, Linux, Apache, Nginx
-- PhpStorm, VS Code, Postman
-
-## Connect With Me
+### 🔗 `Connect With Me`
 
 <div align="center">
+  <!-- LinkedIn https://www.linkedin.com/in/youssef-ahmed-cs/ -->
   <a href="https://www.linkedin.com/in/youssef-ahmed-cs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />
   </a>
-  <a href="mailto:youssef.ahmed.fci@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+  <!-- WhatsApp -->
   <a href="https://wa.me/201277672245" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="32" alt="WhatsApp" />
   </a>
+
+  <!-- Gmail -->
+  <a href="mailto:youssef.ahmed.fci@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" alt="Gmail" />
+  </a>
+
+  <!-- Facebook -->
+<a href="https://www.facebook.com/USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" alt="Facebook" />
+</a>
+
 </div>
 
-## GitHub Statistics
+<br>
+<em><b>Love connecting with different people!</b> <br>
+Say <b>hi</b>, I'll be happy to meet you! 😊</em>
+
+---
+
+### 🛠️ `Tech Stack & Tools`
+
+<details open>
+<summary><b>🔹 Backend & Frameworks</b></summary>
+<br>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" title="Composer" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" title="Symfony" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" title="Node.js" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 Frontend & Styling</b></summary>
+<br>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="Sass" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 Programming Languages</b></summary>
+<br>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 Databases</b></summary>
+<br>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 DevOps & Tools</b></summary>
+<br>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40" title="PhpStorm" />
+</p>
+</details>
+
+
+<details open>
+<summary><b>🔹 Design & Other Tools</b></summary>
+<br>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" title="Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" title="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" title="Slack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" title="Notion" />
+</p>
+</details>
+
+---
+
+### 🏆 `GitHub Trophies`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-ahmed-cs&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ahmed-cs&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+---
+
+### 📈 `Contribution Graph`
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ahmed-cs&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ahmed-cs&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
-## Professional Goals
+---
 
-- **Technical Excellence**: Master advanced Laravel features and performance optimization
-- **Open Source**: Contribute to Laravel ecosystem and PHP community projects
-- **Knowledge Sharing**: Create educational content and tutorials for fellow developers
-- **Career Growth**: Expand expertise in full-stack development and modern web technologies
-- **Collaboration**: Work with development teams on innovative and impactful projects
+### 💡 `Random Dev Quote`
 
 <div align="center">
-  <p><em>Passionate about creating quality software solutions and continuous learning.</em></p>
-  <p><strong>⭐ Thanks for visiting! Feel free to explore my repositories and connect! ⭐</strong></p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+### 🎯 `Current Goals`
+
+- 🔥 Master **Laravel Octane** for high-performance applications
+- 📱 Learn **Laravel Livewire** for dynamic interfaces
+- 🧠 Dive deeper into **Machine Learning with Python**
+- 🚀 Contribute to **Open Source Laravel packages**
+- 📝 Write more technical **blog posts** and **tutorials**
+- 🎓 Complete **AWS Certified Solutions Architect** certification
+
+---
+
+<div align="center">
+  <h3><code>💼 Open for Work | 🤝 Let's Collaborate | 🌱 Always Learning</code></h3>
+  <p>
+    <em>"Code is like humor. When you have to explain it, it's bad."</em> - Cory House
+  </p>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer" />
+  <br><br>
+  <b>⭐ Thanks for visiting! Feel free to star some repositories if you find them interesting! ⭐</b>
 </div>
