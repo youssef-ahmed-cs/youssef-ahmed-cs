@@ -151,6 +151,8 @@ Say <b>hi</b>, I'll be happy to meet you! 😊</em>
 <br>
 <p>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/warp.svg" width="40" title="Warp Terminal" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="40" title="GitHub Copilot" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" title="Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" title="Photoshop" />
