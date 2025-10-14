@@ -13,28 +13,14 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-2F81F7?style=for-the-badge" alt="Focus" />
 </p>
 
----
-
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ### 👨‍💻 `About Me`
 
-- 🔭 Currently building **Appointments Booking System**
 - 🌱 Learning **Advanced Laravel & Vue.js**
 - 👯 Open to collaborate on **Open Source Laravel Projects**
 - 🤝 Seeking help with **Machine Learning Integration**
 - 💬 Ask me about **Laravel, PHP, Web Development, API Design**
 - 📫 Contact: <a href="mailto:youssef.ahmed.fci@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" alt="Gmail" style="vertical-align:middle;" /> <span style="vertical-align:middle;">youssef.ahmed.fci@gmail.com</span></a>
 - ⚡ Fun fact: **I debug code faster than I debug my life! 😄**
-
----
-
-### 🌟 `What I'm Working On`
-
-- 🏥 **Appointments Booking System** – Comprehensive Laravel app
-- 📚 **Laravel Learning Resources** – Tutorials & guides
-- 🔧 **Personal Portfolio Website** – My projects showcase
-- 🚀 **API Development** – RESTful services with Laravel Sanctum
 
 ---
 
