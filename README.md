@@ -115,8 +115,8 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 <br>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="merge.png" width="40" title="Git Tree" />
-  <img src="github.png width="40" title="GitHub" />
+  <img width="100" height="100" src="https://img.icons8.com/stickers/100/merge-git.png" alt="merge-git"/>  
+  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/> 
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
