@@ -86,13 +86,14 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 <summary><b>🔹 Programming Languages</b></summary>
 <br>
 <p>
-  <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" title="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
   <img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/console.png" alt="console"/></details>
 
 <details open>
@@ -129,7 +130,8 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="40" title="DataGrip" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png" alt="external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/>
 </p>
 </details>
 
