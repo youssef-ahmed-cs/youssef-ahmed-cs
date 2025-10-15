@@ -108,6 +108,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" title="Oracle Database" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" title="MariaDB" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-s3.png" alt="amazon-s3"/>
 </p>
 </details>
 
@@ -119,6 +120,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
   <img width="48" height="48" src="https://img.icons8.com/stickers/100/merge-git.png" alt="merge-git"/>  
   <img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/> 
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
+  <img width="48" height="48" src="https://img.icons8.com/clouds/100/api.png" alt="api"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache" />
@@ -127,6 +129,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="40" title="DataGrip" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png" alt="external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo"/>
 </p>
 </details>
 
@@ -147,6 +150,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" title="Notion" />
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/brave-web-browser.png" alt="brave-web-browser"/> 
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/>
 
 </p>
 </details>
