@@ -34,19 +34,16 @@
 
   <!-- WhatsApp -->
   <a href="https://wa.me/201277672245" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="32" alt="WhatsApp" />
-  </a>
+<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>  </a>
 
   <!-- Gmail -->
   <a href="mailto:youssef.ahmed.fci@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" alt="Gmail" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/> 
   </a>
 
   <!-- Facebook -->
 <a href="https://www.facebook.com/USERNAME" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" alt="Facebook" />
-</a>
-
+<img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/></a>
 </div>
 
 <br>
@@ -95,8 +92,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
-</p>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/linux-terminal.png" alt="linux-terminal"/></p>
 </details>
 
 <details open>
@@ -119,8 +115,9 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 <br>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="merge.png" width="40" title="Git Tree" />
+  <img src="github.png width="40" title="GitHub" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache" />
@@ -137,7 +134,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 <br>
 <p>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/warp.svg" width="40" title="Warp Terminal" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="40" title="GitHub Copilot" />
+  <img src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg](https://img.icons8.com/fluency/48/github-copilot.png)" width="40" title="GitHub Copilot" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" title="Illustrator" />
@@ -147,6 +144,8 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
   <img src="id6bGw9L53_logos.png" width="40" title="TablePlus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" title="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" title="Notion" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/brave-web-browser.png" alt="brave-web-browser"/> 
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/>
 
 </p>
 </details>
