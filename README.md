@@ -29,7 +29,7 @@
 <div align="center">
   <!-- LinkedIn https://www.linkedin.com/in/youssef-ahmed-cs/ -->
   <a href="https://www.linkedin.com/in/youssef-ahmed-cs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
   </a>
 
   <!-- WhatsApp -->
@@ -114,9 +114,9 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 <summary><b>🔹 DevOps & Tools</b></summary>
 <br>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img width="100" height="100" src="https://img.icons8.com/stickers/100/merge-git.png" alt="merge-git"/>  
-  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/> 
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img width="48" height="48" src="https://img.icons8.com/stickers/100/merge-git.png" alt="merge-git"/>  
+  <img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/> 
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
