@@ -180,26 +180,3 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
-
----
-
-###  `Current Goals`
-
--  Master **Laravel Octane** for high-performance applications
--  Learn **Laravel Livewire** for dynamic interfaces
--  Dive deeper into **Machine Learning with Python**
--  Contribute to **Open Source Laravel packages**
--  Write more technical **blog posts** and **tutorials**
--  Complete **AWS Certified Solutions Architect** certification
-
----
-
-<div align="center">
-  <h3><code> Open for Work |  Let's Collaborate |  Always Learning</code></h3>
-  <p>
-    <em>"Code is like humor. When you have to explain it, it's bad."</em> - Cory House
-  </p>
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer" />
-  <br><br>
-  <b> Thanks for visiting! Feel free to star some repositories if you find them interesting! </b>
-</div> add in tools brave browser and WebStorm and DataGrip IDEs
