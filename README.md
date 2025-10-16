@@ -8,9 +8,9 @@
 <h3 align="center"><code>Crafting Robust Web Solutions from Egypt 🇪🇬</code></h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssef-ahmed-cs&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/youssef-ahmed-cs?label=Followers&style=for-the-badge&color=2F81F7" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-2F81F7?style=for-the-badge" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=youssef-ahmed-cs&label=Profile%20Views&color=0077B5&style=for-the-badge&logo=eye" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/youssef-ahmed-cs?style=for-the-badge&logo=github&color=0077B5" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-0077B5?style=for-the-badge&logo=server" alt="Focus" />
 </p>
 
 ###  `About Me`
