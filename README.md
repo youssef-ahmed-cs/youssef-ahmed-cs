@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Youssef+Ahmed+%7C+Backend+Developer;Laravel+%7C+PHP+%7C+API+Development;Building+Scalable+Web+Solutions;Clean+Code+%7C+Best+Practices" alt="Typing SVG" />
 </div>
 
-<h1 align="center"> <code>Junior Backend Laravel Developer</code></h1>
+<h1 align="center"> <code>Junior Backend Laravel Developer <img width="80" height="80" src="https://img.icons8.com/office/80/code.png" alt="code"/></code></h1>
 <h3 align="center"><code>Crafting Robust Web Solutions from Egypt 🇪🇬</code></h3>
 
 <p align="center">
@@ -64,8 +64,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 <img width="40" height="40" src="https://img.icons8.com/color/48/symfony.png" alt="symfony"/>
   <img width="40" height="40" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" title="Node.js" />
-  
-</p>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/flask.png" alt="flask"/></p>
 </details>
 
 <details open>
@@ -132,6 +131,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
   <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/>
+  <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/medium-new.png" alt="medium-new"/>
 </p>
 </details>
 
@@ -153,6 +153,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/brave-web-browser.png" alt="brave-web-browser"/> 
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/gemini-ai.png" alt="gemini-ai"/>
 
 </p>
 </details>
