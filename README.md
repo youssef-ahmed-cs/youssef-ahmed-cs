@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://x.com/YOUSEF_AHMED_CS?t=Xe3V0M7TesTGS91NB14lAQ&s=09" target="_blank">
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/>  </a>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>  </a>
 
   <!-- Facebook -->
 <a href="https://www.facebook.com/USERNAME" target="_blank">
