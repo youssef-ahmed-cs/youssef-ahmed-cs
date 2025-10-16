@@ -19,9 +19,6 @@
 -  Open to collaborate on **Open Source Laravel Projects**
 -  Seeking help with **Machine Learning Integration**
 -  Ask me about **Laravel, PHP, Web Development, API Design**
--  Contact: <a href="mailto:youssef.ahmed.fci@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" alt="Gmail" style="vertical-align:middle;" /> <span style="vertical-align:middle;">youssef.ahmed.fci@gmail.com</span>Send Mail</a>
--  Fun fact: **I debug code faster than I debug my life! 😄**
-
 ---
 
 ###  `Connect With Me`
