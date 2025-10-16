@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Youssef+Ahmed+%7C+Backend+Developer;Laravel+%7C+PHP+%7C+API+Development;Building+Scalable+Web+Solutions;Clean+Code+%7C+Best+Practices" alt="Typing SVG" />
 </div>
 
-<h1 align="center"> <code>Junior Backend Laravel Developer <img width="80" height="80" src="https://img.icons8.com/office/80/code.png" alt="code"/></code></h1>
+<h1 align="center"> <code>Junior Backend Laravel Developer</code></h1>
 <h3 align="center"><code>Crafting Robust Web Solutions from Egypt 🇪🇬</code></h3>
 
 <p align="center">
@@ -13,100 +13,78 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-0077B5?style=for-the-badge&logo=server" alt="Focus" />
 </p>
 
+###  About Me
+
+-  Learning *Advanced Laravel & Vue.js*
+-  Open to collaborate on *Open Source Laravel Projects*
+-  Seeking help with *Machine Learning Integration*
+-  Ask me about *Laravel, PHP, Web Development, API Design*
 ---
 
-### `youssef@github:~$`
-
-```bash
-youssef@github:~$ whoami
-
-   __  __  ___  __  __  ____  ___  ____  _  _
-  (  \/  )/ __)(  )(  )( ___)/ __)(_  _)( \/ )
-   )    ( \__ \ )(__)(  )__) \__ \  )(   \  /
-  (_/\/\_)(___/(__)(__)(____)(___/ (__)  (__)
-   _    __    __    ____  __  __  ____  ____
-  ( \  /__\  (  )  ( ___)(  \/  )(_  _)( ___)
-   /\\/(__)\  )(__  )__)  )    (   )(   )__)
-  (_)(__)(__)(____)(____)(_/\/\_) (__) (____)
-
-```
-
-```markdown
-- 👨‍💻 Junior Backend Laravel Developer from Egypt
-- 🚀 Passionate about building robust, scalable web solutions
-- 🌱 Currently learning Advanced Laravel & Vue.js
-- 🤝 Open to collaborating on Open Source Laravel Projects
-- ❓ Ask me about: Laravel, PHP, Web Development, API Design
-```
-
-```bash
-youssef@github:~$ cat social.txt
-```
+###  Connect With Me
 
 <div align="center">
-  <!-- LinkedIn -->
+  <!-- LinkedIn https://www.linkedin.com/in/youssef-ahmed-cs/ -->
   <a href="https://www.linkedin.com/in/youssef-ahmed-cs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
   </a>
+
   <!-- WhatsApp -->
   <a href="https://wa.me/201277672245" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>
-  </a>
+<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>  </a>
+
   <!-- Gmail -->
   <a href="mailto:youssef.ahmed.fci@gmail.com" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/> 
   </a>
-  <!-- Twitter -->
-  <a href="https://x.com/YOUSEF_AHMED_CS?t=Xe3V0M7TesTGS91NB14lAQ&s=09" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>
-  </a>
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/USERNAME" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/>
-  </a>
-</div>
-<br>
-<p align="center"><em><b>Love connecting with different people!</b> <br> Say <b>hi</b>, I'll be happy to meet you!</em></p>
 
-```bash
-youssef@github:~$ ./skills.sh
-```
+  <a href="https://x.com/YOUSEF_AHMED_CS?t=Xe3V0M7TesTGS91NB14lAQ&s=09" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>  </a>
+
+  <!-- Facebook -->
+<a href="https://www.facebook.com/USERNAME" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/></a>
+</div>
+
+<br>
+<em><b>Love connecting with different people!</b> <br>
+Say <b>hi</b>, I'll be happy to meet you! </em>
 
 ---
 
-### `Tech Stack & Tools`
+###  Tech Stack & Tools
 
 <details open>
 <summary><b>🔹 Backend & Frameworks</b></summary>
 <br>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" title="Laravel" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" title="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" title="Composer" />
-  <img width="40" height="40" src="https://img.icons8.com/color/48/symfony.png" alt="symfony"/>
+<img width="40" height="40" src="https://img.icons8.com/color/48/symfony.png" alt="symfony"/>
   <img width="40" height="40" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" title="Node.js" />
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/flask.png" alt="flask"/>
-</p>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/flask.png" alt="flask"/></p>
 </details>
 
 <details open>
 <summary><b>🔹 Frontend & Styling</b></summary>
 <br>
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS" />
+
 </p>
 </details>
 
 <details open>
 <summary><b>🔹 Programming Languages</b></summary>
 <br>
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" title="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
@@ -115,14 +93,12 @@ youssef@github:~$ ./skills.sh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
-  <img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/console.png" alt="console"/>
-</p>
-</details>
+  <img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/console.png" alt="console"/></details>
 
-<details>
+<details open>
 <summary><b>🔹 Databases</b></summary>
 <br>
-<p align="center">
+<p>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
@@ -136,10 +112,10 @@ youssef@github:~$ ./skills.sh
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🔹 DevOps & Tools</b></summary>
 <br>
-<p align="center">
+<p>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
   <img width="48" height="48" src="https://img.icons8.com/stickers/100/merge-git.png" alt="merge-git"/>  
   <img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/> 
@@ -148,32 +124,43 @@ youssef@github:~$ ./skills.sh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
-</p>
-</details>
-
-<details>
-<summary><b>🔹 IDEs & Other Tools</b></summary>
-<br>
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40" title="PhpStorm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" title="WebStorm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="40" title="DataGrip" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/>
+  <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/medium-new.png" alt="medium-new"/>
+</p>
+</details>
+
+
+<details open>
+<summary><b>🔹 Design & Other Tools</b></summary>
+<br>
+<p>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/warp.svg" width="40" title="Warp Terminal" />
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/github-copilot.png" alt="github-copilot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" title="Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" title="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+  <img src="id6bGw9L53_logos.png" width="40" title="TablePlus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" title="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" title="Notion" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/brave-web-browser.png" alt="brave-web-browser"/> 
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/gemini-ai.png" alt="gemini-ai"/>
+
 </p>
 </details>
 
 ---
 
-### `GitHub Trophies`
+###  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=youssef-ahmed-cs&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -181,7 +168,7 @@ youssef@github:~$ ./skills.sh
 
 ---
 
-### `Contribution Graph`
+### Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ahmed-cs&theme=tokyo-night" alt="Contribution Graph" />
@@ -189,8 +176,8 @@ youssef@github:~$ ./skills.sh
 
 ---
 
-### `Random Dev Quote`
+###  Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
