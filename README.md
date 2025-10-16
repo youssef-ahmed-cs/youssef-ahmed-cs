@@ -38,6 +38,9 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/> 
   </a>
 
+  <a href="https://x.com/YOUSEF_AHMED_CS?t=Xe3V0M7TesTGS91NB14lAQ&s=09" target="_blank">
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/>  </a>
+
   <!-- Facebook -->
 <a href="https://www.facebook.com/USERNAME" target="_blank">
 <img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/></a>
