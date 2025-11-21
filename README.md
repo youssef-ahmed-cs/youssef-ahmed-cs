@@ -63,19 +63,6 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 
 ---
 
-### GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/youssef-ahmed-cs" target="_blank" rel="noopener noreferrer" aria-label="Open GitHub profile youssef-ahmed-cs">
-    <figure style="display:inline-block; margin:0;">
-      <img src="https://github-profile-trophy.vercel.app/?username=youssef-ahmed-cs&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies for youssef-ahmed-cs" title="GitHub Trophies — youssef-ahmed-cs" loading="lazy" width="600" />
-      <figcaption style="font-size:12px; color:#6b7280; margin-top:8px;">Click to view profile</figcaption>
-    </figure>
-  </a>
-</div>
-
----
-
 ### Contribution Graph
 
 <div align="center">
