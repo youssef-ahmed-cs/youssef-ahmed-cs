@@ -15,13 +15,6 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-0077B5?style=for-the-badge&logo=server" alt="Focus: Backend Development" title="Focus: Backend Development" style="vertical-align:middle;" />
 </p>
 
-### About Me
-
-- Learning *Advanced Laravel & Vue.js*
-- Open to collaborate on *Open Source Laravel Projects*
-- Seeking help with *Machine Learning Integration*
-- Ask me about *Laravel, PHP, Web Development, API Design*
-
 ---
 
 ### Connect With Me
