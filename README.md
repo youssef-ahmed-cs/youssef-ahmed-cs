@@ -1,63 +1,183 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Youssef+Ahmed+%7C+Backend+Developer;Laravel+%7C+PHP+%7C+API+Development;Building+Scalable+Web+Solutions;Clean+Code+%7C+Best+Practices" alt="Typing SVG" />
-</div>
-
-<h1 align="center"> <code>Junior Backend Laravel Developer</code></h1>
-<h3 align="center"><code>Crafting Robust Web Solutions from Egypt 🇪🇬</code></h3>
-
-<p align="center" aria-label="Profile statistics">
-  <a href="https://github.com/youssef-ahmed-cs" target="_blank" rel="noopener noreferrer" title="View GitHub profile">
-    <img src="https://img.shields.io/github/followers/youssef-ahmed-cs?style=for-the-badge&logo=github&color=0077B5" alt="GitHub followers" style="margin-right:8px; vertical-align:middle;" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=youssef-ahmed-cs" target="_blank" rel="noopener noreferrer" title="Profile views">
-    <img src="https://komarev.com/ghpvc/?username=youssef-ahmed-cs&label=Profile%20Views&color=0077B5&style=for-the-badge&logo=eye" alt="Profile views" style="margin-right:8px; vertical-align:middle;" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-0077B5?style=for-the-badge&logo=server" alt="Focus: Backend Development" title="Focus: Backend Development" style="vertical-align:middle;" />
-</p>
+```bash
+╔════════════════════════════════════════════════════════════════════════════╗
+║                    Welcome to Youssef Ahmed's Profile                      ║
+║                 Junior Backend Developer | Laravel Specialist              ║
+║                         Crafting Robust Web Solutions 🇪🇬                  ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-### Connect With Me
+## 💻 Terminal Session
+
+```bash
+youssef@dev-machine:~$ whoami
+├─ Name: Youssef Ahmed
+├─ Role: Junior Backend Laravel Developer
+├─ Location: Egypt 🇪🇬
+├─ Status: Open to Opportunities
+└─ Passion: Building Scalable Web Solutions
+
+youssef@dev-machine:~$ cat profile/about.txt
+╭─ ABOUT ME
+│
+├─ Backend-focused developer with a passion for Laravel & PHP
+├─ Experienced with cloud platforms (Azure)
+├─ Strong foundation in database design & optimization
+├─ Love learning new technologies and best practices
+│
+╰─ Currently exploring: Advanced Laravel patterns, API Design, DevOps
+
+youssef@dev-machine:~$ echo $GITHUB_STATS
+```
 
 <div align="center">
-  <!-- LinkedIn https://www.linkedin.com/in/youssef-ahmed-cs/ -->
-  <a href="https://www.linkedin.com/in/youssef-ahmed-cs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
+  <a href="https://github.com/youssef-ahmed-cs" target="_blank">
+    <img src="https://img.shields.io/github/followers/youssef-ahmed-cs?style=for-the-badge&logo=github&color=00d084&labelColor=1a1a2e" alt="GitHub Followers" />
   </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/201277672245" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:youssef.ahmed.fci@gmail.com" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/> 
+  <a href="https://komarev.com/ghpvc/?username=youssef-ahmed-cs" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=youssef-ahmed-cs&label=Profile%20Views&color=00d084&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views" />
   </a>
-
-  <a href="https://x.com/YOUSEF_AHMED_CS?t=Xe3V0M7TesTGS91NB14lAQ&s=09" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>  </a>
-
-  <!-- Facebook -->
-<a href="https://www.facebook.com/USERNAME" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/></a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-00d084?style=for-the-badge&logo=server&labelColor=1a1a2e" alt="Backend Focus" />
 </div>
 
-<br>
-<em><b>Love connecting with different people!</b> <br>
-Say <b>hi</b>, I'll be happy to meet you! </em>
+```bash
+youssef@dev-machine:~$ ls -la tech_stack/
+
+```
 
 ---
 
-### Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
+
+```bash
+youssef@dev-machine:~/tech_stack$ tree -L 2
+```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,laravel,nodejs,php,c,cpp,cs,java,js,jquery,css,github,git,gitlab,md,html,mysql,notion,phpstorm,postman,tailwind,vue,docker,graphql,ubuntu,vscode,linux,aws,sqlite,githubactions,bash,cloudflare,debian,fastapi,gcp,heroku,nginx,rails,redis,sublime,sentry&perline=8" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,js,c,cpp,cs,java,jquery,html,css,tailwind,vue,mysql,graphql,docker,git,github,gitlab,azure,vscode,postman,phpstorm,notion,ubuntu,md" alt="Tech Stack" />
 </p>
+
+```bash
+youssef@dev-machine:~/tech_stack$ cd backend && ls
+├─ Framework: Laravel (5+ years experience)
+├─ Language: PHP (OOP, Design Patterns)
+├─ APIs: RESTful & GraphQL
+├─ Database: MySQL, Database Design
+├─ Cache: Redis, Query Optimization
+└─ Queue: Job Processing & Async Tasks
+
+youssef@dev-machine:~/tech_stack/backend$ cd ../frontend && ls
+├─ Vue.js
+├─ JavaScript (ES6+)
+├─ jQuery
+├─ HTML5 & CSS3
+├─ Tailwind CSS
+└─ Bootstrap
+
+youssef@dev-machine:~/tech_stack$ cd ../tools && ls
+├─ Version Control: Git, GitHub, GitLab
+├─ DevOps: Docker, Azure
+├─ Testing: PHPUnit, Postman
+├─ IDE: PHPStorm, VSCode
+├─ Documentation: Markdown, Notion
+└─ OS: Ubuntu / Linux
+```
 
 ---
 
-### Contribution Graph
+## 📊 GitHub Statistics
+
+```bash
+youssef@dev-machine:~$ git log --oneline --all | head -20
+```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ahmed-cs&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ahmed-cs&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=00d084&line=00d084&point=ffffff" alt="Contribution Graph" width="100%" />
+</div>
+
+```bash
+youssef@dev-machine:~$ git status
+On branch main
+Your code is up to date with 'origin/main'
+
+Contributing... in progress ✓
+Learning... in progress ✓
+Building... in progress ✓
+```
+
+---
+
+## 🔗 Connect With Me
+
+```bash
+youssef@dev-machine:~$ ./connect.sh
+```
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/youssef-ahmed-cs" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201277672245" target="_blank" title="WhatsApp">
+    <img width="50" height="50" src="https://img.icons8.com/color/96/whatsapp--v1.png" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:youssef.ahmed.fci@gmail.com" target="_blank" title="Gmail">
+    <img width="50" height="50" src="https://img.icons8.com/color/96/gmail-new.png" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/YOUSEF_AHMED_CS" target="_blank" title="Twitter/X">
+    <img width="50" height="50" src="https://img.icons8.com/fluency/96/twitter.png" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/youssef.ahmed.cs" target="_blank" title="Facebook">
+    <img width="50" height="50" src="https://img.icons8.com/color/96/facebook-new.png" alt="Facebook" />
+  </a>
+</div>
+
+```bash
+youssef@dev-machine:~$ echo "Love connecting with different people!"
+youssef@dev-machine:~$ echo "Say hi, I'll be happy to meet you! 👋"
+youssef@dev-machine:~$ _
+```
+
+---
+
+## 📁 Featured Projects
+
+```bash
+youssef@dev-machine:~/projects$ find . -type d -name "*.git" | head -5
+```
+
+<div align="center">
+  <i>Check out my repositories for more details on my work! 🚀</i>
+</div>
+
+```bash
+youssef@dev-machine:~$ git config user.email
+youssef.ahmed.fci@gmail.com
+
+youssef@dev-machine:~$ git config user.name
+Youssef Ahmed
+
+youssef@dev-machine:~$ cat ~/.bashrc | grep alias
+alias work="cd ~/projects && ls -la"
+alias status="git status"
+alias push="git push origin main"
+
+youssef@dev-machine:~$ _
+```
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Youssef Ahmed**
+
+```bash
+youssef@dev-machine:~$ logout
+Connection closed.
+```
+
 </div>
