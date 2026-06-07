@@ -56,8 +56,10 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 
 ---
 
-### Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ahmed-cs&theme=tokyo-night" alt="Contribution Graph" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ahmed-cs&theme=react-dark" />
+
 </div>
