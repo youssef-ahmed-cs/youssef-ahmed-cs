@@ -51,7 +51,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 ### Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,php,c,cpp,cs,java,js,jquery,css,github,git,gitlab,md,html,mysql,notion,phpstorm,postman,tailwind,vue,docker,graphql,ubuntu,vscode,linux,aws,sqlite,githubactions,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=debian,azure,laravel,nodejs,php,c,cpp,cs,java,js,jquery,css,github,git,gitlab,md,html,nginx,mysql,notion,phpstorm,sublime,postman,tailwind,vue,docker,redis,graphql,sentry,ubuntu,vscode,linux,aws,mongodb,sqlite,githubactions,bash,discord&perline=8" />
 </p>
 
 ---
