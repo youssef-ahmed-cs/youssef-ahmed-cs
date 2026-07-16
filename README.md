@@ -67,6 +67,12 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ahmed-cs&theme=react-dark" />
+<a href="https://github.com/youssef-ahmed-cs">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ahmed-cs&theme=github-dark&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
+</a>
 
 </div>
