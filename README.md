@@ -5,16 +5,23 @@
 <h1 align="center"> <code>Senior Backend Laravel Developer</code></h1>
 <h3 align="center"><code>Crafting Robust Web Solutions from Egypt 🇪🇬</code></h3>
 
-<p align="center" aria-label="Profile statistics">
-  <a href="https://github.com/youssef-ahmed-cs" target="_blank" rel="noopener noreferrer" title="View GitHub profile">
-    <img src="https://img.shields.io/github/followers/youssef-ahmed-cs?style=for-the-badge&logo=github&color=0077B5" alt="GitHub followers" style="margin-right:8px; vertical-align:middle;" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=youssef-ahmed-cs" target="_blank" rel="noopener noreferrer" title="Profile views">
-    <img src="https://komarev.com/ghpvc/?username=youssef-ahmed-cs&label=Profile%20Views&color=0077B5&style=for-the-badge&logo=eye" alt="Profile views" style="margin-right:8px; vertical-align:middle;" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-0077B5?style=for-the-badge&logo=server" alt="Focus: Backend Development" title="Focus: Backend Development" style="vertical-align:middle;" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/youssef-ahmed-cs">
+    <img src="https://img.shields.io/github/followers/youssef-ahmed-cs?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+
+  <a href="https://komarev.com/ghpvc/?username=youssef-ahmed-cs">
+    <img src="https://komarev.com/ghpvc/?username=youssef-ahmed-cs&style=for-the-badge&label=Profile+Views" />
+  </a>
+</p>
 ---
 
 ### Connect With Me
