@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Youssef+Ahmed+%7C+Backend+Developer;Laravel+%7C+PHP+%7C+API+Development;Building+Scalable+Web+Solutions;Clean+Code+%7C+Best+Practices" alt="Typing SVG" />
 </div>
 
-<h1 align="center"> <code>Senior Backend Laravel Developer</code></h1>
+<h1 align="center"> <code>Backend Laravel Developer | Cloud Azure</code></h1>
 <h3 align="center"><code>Crafting Robust Web Solutions from Egypt 🇪🇬</code></h3>
 
 <p align="center">
@@ -22,12 +22,10 @@
     <img src="https://komarev.com/ghpvc/?username=youssef-ahmed-cs&style=for-the-badge&label=Profile+Views" />
   </a>
 </p>
----
 
 ### Connect With Me
 
 <div align="center">
-  <!-- LinkedIn https://www.linkedin.com/in/youssef-ahmed-cs/ -->
   <a href="https://www.linkedin.com/in/youssef-ahmed-cs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
   </a>
@@ -45,7 +43,7 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>  </a>
 
   <!-- Facebook -->
-<a href="https://www.facebook.com/USERNAME" target="_blank">
+<a href="https://www.facebook.com/youssef.ahmed.cs" target="_blank">
 <img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/></a>
 </div>
 
@@ -58,7 +56,7 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 ### Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,nginx,html,css,js,tailwind,npm,aws,azure,cloudflare,heroku,ubuntu,debian,linux,bash,docker,githubactions,git,github,gitlab,redis,sentry,postman,webstorm,phpstorm,py,vscode,notion,devto&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nginx,html,css,js,tailwind,npm,aws,azure,cloudflare,ubuntu,debian,linux,bash,docker,githubactions,git,github,gitlab,redis,sentry,postman,webstorm,phpstorm,py,vscode,notion,devto&perline=8" />
 </p>
 
 ---
@@ -76,3 +74,9 @@ Say <b>hi</b>, I'll be happy to meet you! </em>
 </a>
 
 </div>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=youssef-ahmed-cs&theme=github-dark&hide_border=true"
+  />
+</p>
